@@ -3,7 +3,7 @@
 ### Project 3 (Versioning)
 
 ### Description
-Exploration of Bikeshare Data
+Exploration of Bikeshare Data with Python
 
 ### Files used
 bikeshare.py
@@ -14,3 +14,4 @@ new_york_city.csv
 
 ### Credits
 https://github.com/udacity/pdsnd_github
+https://www.atlassian.com/git/tutorials
